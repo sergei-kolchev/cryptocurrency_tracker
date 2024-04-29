@@ -1,0 +1,37 @@
+.container {
+    display: grid;
+    grid-template-areas:
+            'header'
+            'second_header'
+            'content';
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+.item {
+    padding: 10px;
+    border: 0;
+}
+
+.header {
+    grid-area: header;
+    background-color: #F5F5F5;
+}
+
+.second_header {
+    grid-area: second_header;
+    background-color: #FFFFFF;
+}
+
+.content {
+    grid-area: content;
+}
+
+.slogan {
+    color: #1f1f1f;
+}
+
+.logo {
+    height: 30px;
+}
