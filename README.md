@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">   
-   <img src="https://img.shields.io/badge/FastAPI-python-blue?logo=React" alt="FastAPI">
+   <img src="https://img.shields.io/badge/Made_with-FastAPI-blue" alt="FastAPI">
    <img src="https://img.shields.io/badge/React-18-blue?logo=React" alt="React">
    <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
 </p>
